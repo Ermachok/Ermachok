@@ -15,14 +15,14 @@ This is just the beginning—every day is a step forward. 🚀
 ---
 
 ### 🛠 Preferred Languages and Technologies  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermachok&layout=compact&theme=tokyonight)](https://github.com/ermachok/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermachok&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 Mainly working with Python and backend development frameworks.
 
 ---
 
 ### 🏆 Achievements  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ermachok&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ermachok&theme=onedark&title=-Stars,-Followers,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)  
 
 Not much for now, but every journey starts with a first step.
 
