@@ -33,13 +33,6 @@ Not much for now, but every journey starts with a first step.
 
 Solving challenges on Codewars to sharpen my Python skills. Proud to be in the **top 15%** of coders!
 
----
-
-### 📈 Activity  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ermachok&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
-I mostly work on my local machine but try to reflect my progress in commits.  
-It may not be much, but it's honest work. 
 
 ---
 
