@@ -21,30 +21,5 @@ Mainly working with Python and backend development frameworks.
 
 ---
 
-### 🏆 Achievements  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ermachok&theme=onedark&title=-Stars,-Followers,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)  
-
-Not much for now, but every journey starts with a first step.
-
----
-
-### 💡 Codewars Stats  
-[![codewars](https://www.codewars.com/users/Ermachok/badges/large)](https://www.codewars.com/users/Ermachok)  
-
-Solving challenges on Codewars to sharpen my Python skills. Proud to be in the **top 15%** of coders!
 
 
----
-
-### 👀 Profile Views  
-![Profile views](https://komarev.com/ghpvc/?username=Ermachok&color=green)  
-
-People who have checked out my profile. And honestly, I like to think that number is even higher when it comes to me!
-
----
-
-### 🔬 Research  
-If you're into thermonuclear science, feel free to check out my ResearchGate profile for more insights about Thomson scattering diagnostic: [ResearchGate](https://www.researchgate.net/profile/Nikita-Ermakov-3)
-
-### 🎬 Jason Statham Style  
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
